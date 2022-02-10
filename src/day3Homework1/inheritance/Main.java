@@ -1,0 +1,15 @@
+package day3Homework1.inheritance;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Customer customer = new Customer();
+		Employee employee = new Employee();
+		
+		EmployeeManager employeeManager= new EmployeeManager();
+		employeeManager.Add();
+		employeeManager.List();
+		
+	}
+
+}
