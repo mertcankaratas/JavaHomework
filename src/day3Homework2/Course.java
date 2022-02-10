@@ -6,5 +6,5 @@ public class Course {
 	String categoryName;
 	String name;
 	String duration;
-
+    
 }
