@@ -1,6 +1,6 @@
 package day3Homework2;
 
-public class InstructorManager extends BaseManager {
+public class InstructorManager extends UserManager {
 	public void addCourse() {
 		System.out.println("Kurs Eklendi");
 	}
